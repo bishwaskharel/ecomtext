@@ -1,0 +1,18 @@
+.categorybar-top {
+  background-color: black;
+  height: 4vh;
+  display: flex;
+  .categorybar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 65%;
+    align-items: center;
+    margin: auto;
+    color: #ccc;
+
+    span {
+      font-size: 12px;
+    }
+  }
+}

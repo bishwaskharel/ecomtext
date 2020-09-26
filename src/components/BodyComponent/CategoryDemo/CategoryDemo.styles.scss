@@ -1,0 +1,20 @@
+.categoryDemo-bar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #d68215;
+  height: 15vh;
+  margin: 2rem 0rem;
+  .categoryDemo-inside {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+    width: 70%;
+
+    .categoryDemo-items {
+      background-color: white;
+      border-radius: 50%;
+    }
+  }
+}
