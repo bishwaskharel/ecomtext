@@ -35,7 +35,7 @@ export default class FeaturedProducts extends Component {
     };
     return (
       <div>
-        <h2>Custom Arrows</h2>
+        <h2>Featured Products</h2>
         <Slider {...settings}>
           <div>
             <h3>1</h3>
